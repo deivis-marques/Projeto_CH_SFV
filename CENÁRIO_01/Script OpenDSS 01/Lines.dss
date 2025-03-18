@@ -1,0 +1,8 @@
+! Arquivo Lines
+New line.Trecho_99-1 bus1=99.1.2.3 bus2=1.1.2.3 switch=false linecode=4/0ACSR length=50 units=m
+New line.Trecho_1-2 bus1=1.1.2.3 bus2=2.1.2.3 switch=false linecode=4/0ACSR length=90 units=m
+New line.Trecho_2-6 bus1=2.1.2.3 bus2=6.1.2.3 switch=false linecode=4ACSR length=50 units=m
+New line.Trecho_6-7 bus1=6.1.2.3 bus2=7.1.2.3 switch=false linecode=25mm2CU length=80 units=m
+New line.Trecho_1-5 bus1=1.1.2.3 bus2=5.1.2.3 switch=false linecode=4ACSR length=50 units=m
+New line.Trecho_2-3 bus1=2.1.2.3 bus2=3.1.2.3 switch=false linecode=2/0ACSR length=20 units=m
+New line.Trecho_3-4 bus1=3.1.2.3 bus2=4.1.2.3 switch=false linecode=1/0ACSR length=30 units=m
