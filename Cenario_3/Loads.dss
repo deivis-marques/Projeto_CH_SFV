@@ -1,8 +1,0 @@
-! Arquivo Loads
-New load.Load_TR1 bus1=BT-TR1.1.2.3 conn=Wye phases=3 kVA=500 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR2 bus1=BT-TR2.1.2.3 conn=Wye phases=3 kVA=500 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR3 bus1=BT-TR3.1.2.3 conn=Wye phases=3 kVA=750 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR4 bus1=BT-TR4.1.2.3 conn=Wye phases=3 kVA=500 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR5 bus1=BT-TR5.1.2.3 conn=Wye phases=3 kVA=750 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR6 bus1=BT-TR6.1.2.3 conn=Wye phases=3 kVA=300 kV=0.38 PF=0.92 model=1 daily=Industrial
-New load.Load_TR7 bus1=BT-TR7.1.2.3 conn=Wye phases=3 kVA=225 kV=0.38 PF=0.92 model=1 daily=Industrial

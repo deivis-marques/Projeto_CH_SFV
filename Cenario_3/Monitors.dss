@@ -1,5 +1,0 @@
-! Arquivo Monitors
-New monitor.Monitor_Barra_SE-99 element=line.Trecho_99-1 terminal=1 mode=1 ppolar=no
-New monitor.SFV_Novo element=PVSystem.SFV_1 terminal=1 mode=3 ppolar=no
-New monitor.SFV_Exist element=Generator.SFV_Exist terminal=1 mode=1 ppolar=no
-New monitor.Trecho_4 element=line.Trecho_3-4 terminal=1 mode=1 ppolar=no
