@@ -1,0 +1,4 @@
+! Arquivo Sistema de Armazenamento
+New loadshape.Curva_SA npts=24 interval=1
+~ mult=[0 0 0 0 0 0 0 0 0 0 0 0 -0.9 -1 -1 -0.9 0 0 0.9 1 1 0.9 0 0]
+New storage.SA_1 phases=3 bus1=6.1.2.3 kv=13.8 kWrated=200 kWhrated=800 kWhstored=0 dispmode=follow daily=Curva_SA
