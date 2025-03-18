@@ -1,0 +1,22 @@
+! Arquivo Transformers
+New transformer.TR1 xhl=5
+~ wdg=1 kV=13.8 KVA=500 TAP=1 bus=1 conn=Delta
+~ wdg=2 kV=0.38 KVA=500 TAP=1 bus=BT-TR1 conn=Wye
+New transformer.TR2 xhl=5
+~ wdg=1 kV=13.8 KVA=500 TAP=1 bus=2 conn=Delta
+~ wdg=2 kV=0.38 KVA=500 TAP=1 bus=BT-TR2 conn=Wye
+New transformer.TR3 xhl=5
+~ wdg=1 kV=13.8 KVA=750 TAP=1 bus=3 conn=Delta
+~ wdg=2 kV=0.38 KVA=750 TAP=1 bus=BT-TR3 conn=Wye
+New transformer.TR4 xhl=5
+~ wdg=1 kV=13.8 KVA=500 TAP=1 bus=4 conn=Delta
+~ wdg=2 kV=0.38 KVA=500 TAP=1 bus=BT-TR4 conn=Wye
+New transformer.TR5 xhl=5
+~ wdg=1 kV=13.8 KVA=750 TAP=1 bus=5 conn=Delta
+~ wdg=2 kV=0.38 KVA=750 TAP=1 bus=BT-TR5 conn=Wye
+New transformer.TR6 xhl=5
+~ wdg=1 kV=13.8 KVA=300 TAP=1 bus=6 conn=Delta
+~ wdg=2 kV=0.38 KVA=300 TAP=1 bus=BT-TR6 conn=Wye
+New transformer.TR7 xhl=5
+~ wdg=1 kV=13.8 KVA=225 TAP=1 bus=7 conn=Delta
+~ wdg=2 kV=0.38 KVA=225 TAP=1 bus=BT-TR7 conn=Wye
